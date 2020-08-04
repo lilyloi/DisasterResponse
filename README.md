@@ -1,6 +1,6 @@
 # Disaster Response Pipeline Project
 
-![Intro Pic](img/head.png)
+![Intro Pic](img/head.PNG)
 
 ## Table of Contents
 1. [Description](#description)
@@ -100,7 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 2. After clicking **Classify Message**, you can see the categories which the message belongs to highlighted in green
 
-![Sample Output](img/example.png)
+![Sample Output](img/example.PNG)
 
 3. The web app' s main page shows some graphs as an overview of training data.
 
