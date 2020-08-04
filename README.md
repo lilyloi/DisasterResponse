@@ -64,7 +64,7 @@ git clone https://github.com/lng15/DisasterResponse
 ### Additional Material
 
 In the **data** and **model** folder you can find Jupyter notebooks that will help you understand how the model works step by step:
-1. **ETL Preparation Notebook**: an implemented ETL pipeline which extracts, transforms, and load raw dataset into a cleaned dataset. 
+1. **ETL Preparation Notebook**: an implemented ETL pipeline which extracts, transforms, and loads raw dataset into a cleaned dataset. 
 2. **ML Pipeline Preparation Notebook**: analyzing machine learning models through NLP process to find the final model.
 3. **ML Pipeline Final Notebook**: the final machine learning model used for web app.
 
@@ -81,6 +81,8 @@ Using a standard desktop/laptop (4 CPUs, RAM 8Gb or above) it may take several h
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 <a name="acknowledgement"></a>
 
